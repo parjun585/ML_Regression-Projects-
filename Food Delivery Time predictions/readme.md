@@ -28,21 +28,21 @@ The motivation for this project is to build a predictive model that can accurate
 
 ## Installation
 1. **Clone the repository**:
-   \`\`\`bash
+   ```sh
    git clone https://github.com/parjun585/ML_Regression-Projects-/tree/main/Food%20Delivery%20Time%20predictions
    cd Food\ Delivery\ Time\ predictions
-   \`\`\`
+   ```
 
 2. **Set up a virtual environment**:
-   \`\`\`bash
+   ```sh
    python3 -m venv env
    source env/bin/activate  # On Windows: .\env\Scripts\activate
-   \`\`\`
+   ```
 
 3. **Install dependencies**:
-   \`\`\`bash
+  ```sh
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 ## Data Description
 The dataset includes various features that may impact delivery time, such as:
